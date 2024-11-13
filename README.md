@@ -2,8 +2,8 @@
 
 ### Education
 **Posts and Telecommunications Institute of Technology** – Ho Chi Minh City, Viet Nam  
-**Bachelor of Engineering in Information Technology**  
-*11/2021 – Expected 01/2026* 
+- *Bachelor of Engineering in Information Technology*  
+- *11/2021 – Expected 01/2026*
 
 ### Work Experience
 Data Engineer Internship @ somehwhere
