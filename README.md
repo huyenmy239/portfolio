@@ -4,20 +4,20 @@ Welcome to my portfolio! Below is an overview of my education, work experience, 
 
 ---
 
-## 🎓 Education
+## Education
 **Posts and Telecommunications Institute of Technology** – Ho Chi Minh City, Viet Nam  
 *Bachelor of Engineering in Information Technology (11/2021 – Expected 01/2026)*  
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 ### Data Engineer Internship @ Somewhere  
-- 📂 **Project 1:** Brief description of the project and its outcome.  
-- 📂 **Project 2:** Brief description of the project and its outcome.
+- **Project 1:** Brief description of the project and its outcome.  
+- **Project 2:** Brief description of the project and its outcome.
 
 ---
 
-## 🛠️ Projects
+## 🛠Projects
 
 ### 1. [E-Commerce Website Development](https://github.com/username/ecommerce-project)  
 **Role:** Full-stack Developer  
@@ -56,10 +56,3 @@ Welcome to my portfolio! Below is an overview of my education, work experience, 
 - Analyzed COVID-19 datasets to uncover trends in infection rates and recovery statistics.  
 - Visualized insights using Tableau dashboards, increasing clarity for non-technical stakeholders.  
 - Shared findings in a research paper, receiving positive feedback from peers.
-
----
-
-## 📧 Contact Me
-- **LinkedIn:** [Nguyen Thi Huyen My](https://www.linkedin.com/in/huyen-my-a90816235)  
-- **GitHub:** [huyenmy239](https://github.com/huyenmy239)  
-- **Email:** [your-email@example.com](mailto:your-email@example.com)  
