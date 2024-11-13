@@ -16,34 +16,10 @@ I am pursuing a career as a Data Engineer, constantly learning and striving to d
 
 ## Projects
 
-### 1. [E-Commerce Website Development](https://github.com/username/ecommerce-project)  
-**Role:** Full-stack Developer  
-**Technologies:** HTML, CSS, JavaScript, React, Node.js, MongoDB  
+### 1. [Distributed Database Quiz System](https://github.com/huyenmy239/testify)  
+**Role:** Backend Developer
+**Technologies:** HTML, CSS, JavaScript, Python, Django, SQL Server
 #### Highlights:  
-- Developed a fully functional e-commerce platform for small businesses.  
-- Implemented features like user authentication, product listing, and online payment integration using Stripe.  
-- Reduced page load time by **30%** through performance optimization techniques.
-
-### 2. **AI-Powered Chatbot for Customer Support**  
-**Role:** Backend Developer  
-**Technologies:** Python, Flask, TensorFlow, Natural Language Processing (NLP)  
-#### Highlights:  
-- Built a chatbot capable of handling customer queries using NLP models.  
-- Achieved **85% accuracy** in intent recognition through model fine-tuning.  
-- Integrated the chatbot with a live website, reducing customer service response time by **50%**.
-
-### 3. **Personal Portfolio Website**  
-**Role:** Designer & Developer  
-**Technologies:** HTML, CSS, JavaScript  
-#### Highlights:  
-- Designed and developed a responsive personal portfolio to showcase projects and skills.  
-- Used CSS animations to enhance the user experience.  
-- Deployed the website using GitHub Pages.
-
-### 4. **Data Analysis on COVID-19 Trends**  
-**Role:** Data Analyst  
-**Technologies:** Python, Pandas, Matplotlib, Tableau  
-#### Highlights:  
-- Analyzed COVID-19 datasets to uncover trends in infection rates and recovery statistics.  
-- Visualized insights using Tableau dashboards, increasing clarity for non-technical stakeholders.  
-- Shared findings in a research paper, receiving positive feedback from peers.
+- Developed a distributed database quiz system for students and faculty, as part of the final project for the "Distributed Database Fundamentals" course at PTITHCM.
+- Designed a scalable architecture to understand and implement distributed systems. 
+- Implemented data distribution across three servers to enhance reliability and scalability.
