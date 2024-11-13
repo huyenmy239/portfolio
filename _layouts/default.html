@@ -6,6 +6,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
+    <style>
+      ul.social-media {
+        list-style: none;
+        padding: 0;
+        display: flex;
+        gap: 10px;
+      }
+      
+      ul.social-media li {
+        display: inline;
+      }
+      
+      ul.social-media a {
+        text-decoration: none;
+        color: inherit;
+      }
+      
+      ul.social-media i {
+        font-size: 1.5em;
+      }
+    </style>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
