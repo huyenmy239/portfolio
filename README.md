@@ -1,4 +1,4 @@
-# Data Engineer
+# Learner
 
 I am pursuing a career as a Data Engineer, constantly learning and striving to develop myself to achieve both personal and professional excellence.
 
