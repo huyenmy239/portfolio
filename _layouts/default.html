@@ -21,8 +21,16 @@
       ul.social-media a {
         text-decoration: none;
         color: inherit;
+        transition: color 0.3s ease;
       }
-      
+
+      .social-media a[data-color] {
+        color: var(--default-color, #000);
+      }
+
+      .social-media a[data-color]:hover {
+        color: attr(data-color);
+      }  
       ul.social-media i {
         font-size: 1.5em;
       }
