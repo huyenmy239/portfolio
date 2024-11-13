@@ -1,23 +1,20 @@
-# Data Engineer Portfolio
+# Data Engineer
 
-Welcome to my portfolio! Below is an overview of my education, work experience, and projects showcasing my skills and expertise.
+I am pursuing a career as a Data Engineer, constantly learning and striving to develop myself to achieve both personal and professional excellence.
 
----
 
 ## Education
 **Posts and Telecommunications Institute of Technology** – Ho Chi Minh City, Viet Nam  
 *Bachelor of Engineering in Information Technology (11/2021 – Expected 01/2026)*  
 
----
 
 ## Work Experience
 ### Data Engineer Internship @ Somewhere  
 - **Project 1:** Brief description of the project and its outcome.  
 - **Project 2:** Brief description of the project and its outcome.
 
----
 
-## 🛠Projects
+## Projects
 
 ### 1. [E-Commerce Website Development](https://github.com/username/ecommerce-project)  
 **Role:** Full-stack Developer  
@@ -27,8 +24,6 @@ Welcome to my portfolio! Below is an overview of my education, work experience, 
 - Implemented features like user authentication, product listing, and online payment integration using Stripe.  
 - Reduced page load time by **30%** through performance optimization techniques.
 
----
-
 ### 2. **AI-Powered Chatbot for Customer Support**  
 **Role:** Backend Developer  
 **Technologies:** Python, Flask, TensorFlow, Natural Language Processing (NLP)  
@@ -37,8 +32,6 @@ Welcome to my portfolio! Below is an overview of my education, work experience, 
 - Achieved **85% accuracy** in intent recognition through model fine-tuning.  
 - Integrated the chatbot with a live website, reducing customer service response time by **50%**.
 
----
-
 ### 3. **Personal Portfolio Website**  
 **Role:** Designer & Developer  
 **Technologies:** HTML, CSS, JavaScript  
@@ -46,8 +39,6 @@ Welcome to my portfolio! Below is an overview of my education, work experience, 
 - Designed and developed a responsive personal portfolio to showcase projects and skills.  
 - Used CSS animations to enhance the user experience.  
 - Deployed the website using GitHub Pages.
-
----
 
 ### 4. **Data Analysis on COVID-19 Trends**  
 **Role:** Data Analyst  
